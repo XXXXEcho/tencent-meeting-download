@@ -1,5 +1,7 @@
 # 腾讯会议录屏下载器
 
+中文 | [English](README.md)
+
 用于从腾讯会议 (meeting.tencent.com) 网页下载录制视频的 Claude Code 技能。
 
 ## 功能特性

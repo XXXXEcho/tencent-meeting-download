@@ -1,5 +1,7 @@
 # Tencent Meeting Recording Downloader
 
+[中文文档](README.zh-CN.md) | English
+
 A Claude Code skill for downloading video recordings from Tencent Meeting (meeting.tencent.com) web pages.
 
 ## Features
